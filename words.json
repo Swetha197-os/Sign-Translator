@@ -1,0 +1,23 @@
+{
+  "ask": "static/words/ask.png",
+  "can": "static/words/can.png",
+  "family": "static/words/family.png",
+  "find": "static/words/find.png",
+  "for": "static/words/for.png",
+  "goodbye": "static/words/goodbye.png",
+  "hello": "static/words/hello.png",
+  "love": "static/words/love.png",
+  "meet": "static/words/meet.png",
+  "need": "static/words/need.png",
+  "no": "static/words/no.png",
+  "please": "static/words/please.png",
+  "say": "static/words/say.png",
+  "see": "static/words/see.png",
+  "share": "static/words/share.png",
+  "tell": "static/words/tell.png",
+  "thankyou": "static/words/thankyou.png",
+  "try": "static/words/try.png",
+  "use": "static/words/use.png",
+  "want": "static/words/want.png",
+  "yes": "static/words/yes.png"
+}
