@@ -10,6 +10,7 @@
 - **Pro Dark UI**: Tabs, speed control, auto-play, coverage stats
 - **JSON Tools**: Import/export dictionaries, debug viewer
 - **Offline**: Uses your local GIFs/videos
+Open: http://localhost:8501git
 
 **Demo:** `"yes thank you 8"` → yes.png + T-H-A-N-K + you.png + 8.png (8 signs!)
 
@@ -18,6 +19,5 @@
 pip install streamlit
 streamlit run app.py
 
-## Website
-Open: http://localhost:8501
+
 
